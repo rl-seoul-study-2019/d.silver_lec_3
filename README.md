@@ -1,4 +1,4 @@
-# David Silver RL Course `Lec3` 강의 내용에 대한 알고리즘
+# David Silver RL Course `Lec3` 내용 관련 주요 알고리즘
 
 ## __Lec3__ : *__Planning Dynamic Programming__*
   * Value iteration for (Env. 5x5 grid world)
