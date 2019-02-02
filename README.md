@@ -1,9 +1,6 @@
 # David Silver RL Course `Lec3` 강의 내용에 대한 알고리즘
-*__Dynamic Programming__*
-  * Policy Iteration
-  * Value Iteration
 
-## Lec3 : Planning Dynamic Programming
+## `Lec3` : *__Planning Dynamic Programming__*
   * Value iteration for (Env. 5x5 grid world)
   * Policy iteration for (Env. 5x5 grid world)
 
